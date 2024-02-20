@@ -26,8 +26,6 @@
 
 **Модуль ключа на базе Seeed Studio XIAO ESP32C3**
 
-<img src="media/XIAO_ESP32.png" width=200px>
-
 <details>
  <summary>Технические характеристики</summary>
  
@@ -48,10 +46,9 @@
 * Рабочая температура: -40°C ~ 85°C.
 
 </details>
+<img src="media/XIAO_ESP32.png" width=200px>
 
 **Микрофон INMP441**
-
-<img src="media/INMP441.png" width=200px>
 
 <details>
  <summary>Технические характеристики</summary>
@@ -68,9 +65,10 @@
 
 </details>
 
-**Динамик DXI30N-A**
+<img src="media/INMP441.png" width=200px>
 
-<img src="media/DXI30N-A.png" width=200px>
+
+**Динамик DXI30N-A**
 
 <details>
  <summary>Технические характеристики</summary>
@@ -84,9 +82,10 @@
 
 </details>
 
-**Усилитель класса D i2s MAX98357A**
+<img src="media/DXI30N-A.png" width=200px>
 
-<img src="media/MAX98357A.png" width=200px>
+
+**Усилитель класса D i2s MAX98357A**
 
 <details>
  <summary>Технические характеристики</summary>
@@ -102,9 +101,9 @@
 
 </details>
 
-**Плата расширения Grove Shield для XIAO с чипом управления батареей**
+<img src="media/MAX98357A.png" width=200px>
 
-<img src="media/Grove Shield.png" width=200px>
+**Плата расширения Grove Shield для XIAO с чипом управления батареей**
 
 <details>
  <summary>Технические характеристики</summary>
@@ -120,9 +119,9 @@
 
 </details>
 
-**Трёхосевой цифровой акселерометр Grove (LIS3DHTR)**
+<img src="media/Grove Shield.png" width=200px>
 
-<img src="media/LIS3DHTR.png" width=200px>
+**Трёхосевой цифровой акселерометр Grove (LIS3DHTR)**
 
 <details>
  <summary>Технические характеристики</summary>
@@ -141,10 +140,9 @@
 
 </details>
 
+<img src="media/LIS3DHTR.png" width=200px>
 
 **Кнопка Grove**
-
-<img src="media/button.png" width=200px>
 
 <details>
  <summary>Технические характеристики</summary>
@@ -156,6 +154,8 @@
 * Габариты: 20ммX20мм.
 
 </details>
+
+<img src="media/button.png" width=200px>
 
 **Универсальные 20см кабели Grove - с 4-мя контактами**
 
